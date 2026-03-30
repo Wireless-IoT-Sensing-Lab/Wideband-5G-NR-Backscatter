@@ -1,4 +1,15 @@
-# Wideband-5G-NR-Backscatter
+# Wideband Low-complexity High-speed 5G NR Backscatter
+
+This repository provides the **implementation, hardware design, and experimental data** for the **Wideband Low-complexity High-speed 5G NR Backscatter** system — a high-throughput in-band backscatter framework that enables efficient communication using **5G NR signals** with **low-complexity tag design** and **learning-based decoding**.
+
+📢 **Please cite our paper if you use our code, hardware design, or dataset.**
+
+Zhenzhe Lin†, Yoon Chae§, Panneer Selvam Santhalingam#,  
+Mingyo Jeyong†, Parth Pathak†  
+
+† George Mason University  
+§ University of Texas at Arlington  
+# Brooklyn College, CUNY
 
 ## **Repository Overview (To Be Released Upon Acceptance)**
 
