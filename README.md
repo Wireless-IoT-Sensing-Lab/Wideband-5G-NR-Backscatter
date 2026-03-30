@@ -5,6 +5,7 @@ This repository provides the **implementation, hardware design, and experimental
 📢 **Please cite our paper if you use our code, hardware design, or dataset.**
 
 Zhenzhe Lin†, Yoon Chae§, Panneer Selvam Santhalingam\#, Mingyo Jeyong†, Parth Pathak†  
+
 † George Mason University  
 § University of Texas at Arlington  
 \# Brooklyn College, CUNY
